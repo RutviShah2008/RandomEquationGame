@@ -134,9 +134,6 @@
 
   };
 
-  document.querySelector("#btn-generate").onclick = function (){
-    new RandomEquationGame();
-  }
 
   RandomEquationGame.prototype.skip=function(){
     this.message.textContent = "";
@@ -160,4 +157,7 @@
     this.name.value = "";
     localStorage.clear();
     //window.close();
+  }
+  document.querySelector("#btn-generate").onclick = function (){
+    new RandomEquationGame();
   }
