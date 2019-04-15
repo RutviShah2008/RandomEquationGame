@@ -139,6 +139,7 @@
   }
 
   RandomEquationGame.prototype.skip=function(){
+    this.message.textContent = "";
     this.generateRandomEquation();
   }
 
