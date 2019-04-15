@@ -18,7 +18,7 @@
 <li>Evaluated Value</li>
 <li>Stored Username and Score to LocalStorage</li>
 <li>Implemented Skip, Quit and Reset functionality </li>
-<li>Hosted project on Netlify:</li>
+<li>Hosted project on Netlify:https://randomequationgame.netlify.com/</li>
 </ul>
 </div>
 </body>
