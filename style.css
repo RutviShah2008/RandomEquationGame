@@ -1,0 +1,61 @@
+.btn-circle.btn-xl {
+  width: 85px;
+  height: 85px;
+  padding: 10px 16px;
+  border-radius: 109px;
+  font-size: 24px;
+  line-height: 1.33;
+  background-color: darkgreen;
+}
+
+.btn-circle {
+    width: 50px;
+    height: 50px;
+    padding: 6px 0px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+body{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#username {
+  height: 85px;
+  width: 250px;
+  text-align: center;
+  border-color: darkgreen;
+  border-radius: 20px;
+  font-size: 25px;
+}
+#equations, #ansInput{
+
+   font-size: 35px;
+   font-style:bold;
+}
+#message{
+  font-size: 25px;
+  font-style:italic;
+}
+#heading
+{
+  font-family: Impact, Charcoal, sans-serif ;
+  font-size: 80px;
+  font-style:bold;
+}
+#evlBtn ,#skipBtn, #quitBtn, #resetBtn
+{
+  border-width: 20px;
+  font-size: 20px;
+}
+hr{
+  border-top-width: 12px;
+  border-color: black;
+}
+
+.jumbotron{
+  background-color: #819ae4;
+}
+.bg{
+  background-color: #ccfff2;
+}
